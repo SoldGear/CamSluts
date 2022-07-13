@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/favorite_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/favorite_title"
+            android:title="Main"
+            tools:ignore="HardcodedText">
+            <menu>
+                <item
+                    android:id="@+id/favorite"
+                    android:icon="@drawable/ic_favorite_20dp"
+                    android:title="Favorite" />
+            </menu>
+        </item>
+    </group>
+    <group
+        android:id="@+id/chaturbateGroup"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subtitle"
+            android:title="Chaturbate"
+            tools:ignore="HardcodedText">
+            <menu>
+                <item
+                    android:id="@+id/chaturbate_featured"
+                    android:icon="@drawable/baseline_awesome_24"
+                    android:title="Featured" />
+                <item
+                    android:id="@+id/chaturbate_female"
+                    android:icon="@drawable/baseline_female_20"
+                    android:title="Female" />
+                <item
+                    android:id="@+id/chaturbate_male"
+                    android:icon="@drawable/baseline_male_20"
+                    android:title="Male" />
+                <item
+                    android:id="@+id/chaturbate_couple"
+                    android:icon="@drawable/ic_baseline_wc_20"
+                    android:title="Couple" />
+                <item
+                    android:id="@+id/chaturbate_trans"
+                    android:icon="@drawable/baseline_transgender_20"
+                    android:title="Trans" />
+            </menu>
+        </item>
+    </group>
+    <group
+        android:id="@+id/settingsGroup"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/preferenceSubtitle"
+            android:title="App Preferences"
+            tools:ignore="HardcodedText">
+            <menu>
+                <item
+                    android:id="@+id/settings"
+                    android:icon="@drawable/ic_settings_20dp"
+                    android:title="Settings" />
+            </menu>
+        </item>
+    </group>
+</menu>

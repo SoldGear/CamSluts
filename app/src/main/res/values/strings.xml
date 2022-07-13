@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CamSluts</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Theme Switch - Preference Strings -->
+    <string name="pref_key_night" translatable="false">key_night_mode</string>
+    <string name="pref_night_title">Dark mode</string>
+    <string name="pref_night_summary">Select a dark or light theme.</string>
+    <string name="pref_night_dialog">Set Dark mode</string>
+    <string name="pref_night_auto" translatable="false">auto</string>
+    <string name="pref_night_on" translatable="false">on</string>
+    <string name="pref_night_off" translatable="false">off</string>
+    <string name="night_mode_auto">System Default</string>
+    <string name="night_mode_on">Dark mode</string>
+    <string name="night_mode_off">Light mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
