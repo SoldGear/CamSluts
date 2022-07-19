@@ -22,3 +22,19 @@ Social Engineering, Kingshit.
 
 
 Ein Parade Beispiel,.. für PAGINATION wird folgen,.. 
+
+
+Kleine To-Do list,..
+
+Navigation Erweiterung...
+Search implementation
+Aussortierung von offline Cams aus aktueller Liste 
+Favorites,.. with On / Offline
+Backnavigation,.. and Restoring
+Details erweiterung,.. Media Button's
+ChromeCast implementation
+Model Aufnahme...
+Und Design fertig stellen...
+Update,.. GitHub, Server and F
+
+Sind die groben Aufgaben,.. bis zum pre-alpha release
