@@ -38,3 +38,10 @@ Und Design fertig stellen...
 Update,.. GitHub, Server and F
 
 Sind die groben Aufgaben,.. bis zum pre-alpha release
+
+
+Kleine Vorschau...
+
+
+https://ibb.co/CKZRpXb
+https://ibb.co/m9wCVcv
