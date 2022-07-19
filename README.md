@@ -8,3 +8,14 @@ When people say it's the same... I just have to laugh tiredly,</br>
 scroll actions are one of my favorite disciplines like tcp,<br>
 and social engineering... Keep an eye on ongoing updates,</br>
 Peace out! SoldGear<br>
+
+
+Deutsch...
+
+Mit dem kleinen Code Example Infinity Scroll... Und der Seiten Beschaffenheit von Chaturbated..
+Wird richtiges Infinity Scroll mit 2 Zeilen im Adapter
+ geregelt dieser Code ist ein Einzeiler der gleich mehrere 
+Sachen handelt und zwar das Chaturbated sich ständig updated... 
+Und in die Unendlichkeit scrollt...
+Dadurch das ich keine gleiche Models in die Liste lasse löse ich 3 fliegen mit einer Klappe,.. 
+Social Engineering, Kingshit.
